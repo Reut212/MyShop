@@ -1,6 +1,6 @@
 # My Shop
 
-A new Flutter project - The פproject simulates a store where you can purchase different products.
+A new Flutter project - This project simulates a store where you can purchase different products.
 
 
 For help getting started with Flutter development, view the
