@@ -1,10 +1,6 @@
 # My Shop
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a shop application in Flutter.
+A new Flutter project - The פproject simulates a store where you can purchase different products.
 
 
 For help getting started with Flutter development, view the
